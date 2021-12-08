@@ -1,2 +1,2 @@
 # JavaBasic
-JavaB
+Implemented on intellij . ide
